@@ -1,4 +1,5 @@
 import { Layout } from "@/components/layout";
+import "@/styles/globals.css";
 
 export const metadata = {
   title: "Next.js",
